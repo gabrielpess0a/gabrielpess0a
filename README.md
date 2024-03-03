@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel de Loiola Pessoa</h1>
-<h3 align="center">Application Security Analyst and Back-end Developer</h3>
+<h3 align="center">Application Security Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrieldeloiola&label=Profile%20views&color=0e75b6&style=flat" alt="gabrieldeloiola" /> </p>
 
